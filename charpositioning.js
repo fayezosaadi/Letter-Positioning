@@ -1,5 +1,5 @@
 var str = process.argv.slice(2).join("");
-console.log(str);
+// console.log(str);
 
 
 function getPosition(str) {
